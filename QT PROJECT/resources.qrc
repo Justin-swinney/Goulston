@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/appimages">
+        <file>imgs/ADD EMPLOYEE ICON.png</file>
+        <file>imgs/add-user.png</file>
+        <file>imgs/crop.png</file>
+        <file>imgs/edit.png</file>
+        <file>imgs/logo.jpg</file>
+        <file>imgs/REMOVE EMPLOYEE ICON.png</file>
+        <file>imgs/remove-user.png</file>
+        <file>imgs/GIcon.jpg</file>
+    </qresource>
+</RCC>
