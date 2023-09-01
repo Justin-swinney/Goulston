@@ -3,13 +3,14 @@
 Goulston Technologies requested I evaluate their current process for implementing and removing employee photos from a locally run IIS server.
 
 Goulston’s Original Process:
-ADDING NEW EMPLOYEE PHOTO
+
 -	HR department would crop the image and send the cropped image to the IT department.
 -	The IT department would then place the image in a folder and manual add a premade HTML table code around 15 lines into an HTML document.
 -	The new code added would be manually placed in alphabetical order by the IT department.
 -	To remove a photo the IT department would be notified, and the code would be manually removed from the HTML file. 
 
 Goulston New Process:
+
 -	HR will crop an image and name the image.
 -	The backend code will automatically detect any changes within the folder and add the new image into a new table cell automatically.
 -	I also implemented a search feature for the website as well as a time stamp for any changes made to the website.
