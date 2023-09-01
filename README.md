@@ -1,6 +1,6 @@
 # Goulston
 
-This project is my first real world project and is current live and in use at the company currently!
+This project is my first real world project and is currently live and in use at the company currently!
 
 Goulston Technologies requested I evaluate their current process for implementing and removing employee photos from a locally run IIS server.
 
