@@ -1,9 +1,13 @@
 # Goulston
 
 
+<div style="text-align:center">
+
 | Original  | New |
 | --- | --- |
-| <img src="Goulston-old.png" alt="Original" width="400"/> | <img src="Goulston-new.png" alt="New Process 2" width="400"/> |
+| <img src="Goulston-old.png" alt="Original" width="300"/> | <img src="Goulston-new.png" alt="New Process 2" width="400"/> |
+
+</div>
 
 This project is my first real world project and is currently live and in use at the company currently!
 
