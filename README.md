@@ -1,10 +1,9 @@
 # Goulston
 
-## Original Process
 
-| New Process|
+| Original  | New |
 | --- | --- |
-| ![Original](Goulston-old.png) | ![New Process 2](Goulston-new.png) |
+| <img src="Goulston-old.png" alt="Original" width="400"/> | <img src="Goulston-new.png" alt="New Process 2" width="400"/> |
 
 This project is my first real world project and is currently live and in use at the company currently!
 
